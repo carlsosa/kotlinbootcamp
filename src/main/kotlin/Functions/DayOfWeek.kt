@@ -2,9 +2,7 @@ package kotlin.Functions
 
 import java.util.*
 
-fun main(){
-    dayOfTheWeek();
-}
+
 
 fun dayOfTheWeek(){
     println("What Day is today?")
